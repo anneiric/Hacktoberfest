@@ -3,9 +3,9 @@ Submit Your contributions
 
 
 Submit or Create Anything
-I will review n merge ur PRs
+I will review and merge your PRs
 
-Follow these steps to open and successful PR and earn swags.!!!
+Follow these steps to open successful PR's and earn swags!!!
 
 Sign up on the following link: https://hacktoberfest.digitalocean.com
 
@@ -40,7 +40,7 @@ You just need to make five contributions to open source before October 31 and ca
 
 2017 and 2018 Hactoberfest tshirts
 How can a beginner participate?
-For beginners, they are saying that you could make contributions to documentation for some projects. But this also needs some level of effort. When I heard about Hacktoberfest, I just registered and leave it there without doing any contributions. But then I go through the list projects I find out some too easy projects to contribute to. So I`m listing here four Github repositories anyone can contribute to, it’s too easy, you just need to add your Github profile name etc in their readme file. Some of them have instructions on how to contribute. So let’s do it
+For beginners, they are saying that you could make contributions to documentation for some projects. But this also needs some level of effort. When I heard about Hacktoberfest, I just registered and left it there without doing any contributions. But as I went through the list projects I found some too easy projects to contribute to. So I'm listing here four Github repositories anyone can contribute to, it’s very easy; you just need to add your Github profile name etc in their readme file. Some of them have instructions on how to contribute. So let’s do it!
 Step 1: Register or login to github.com
 Step 2: Register to Hacktoberfest.
 Step 3: Contribute to these five repositories or any others repositories you like, check instructions to contribute in each repositories.
